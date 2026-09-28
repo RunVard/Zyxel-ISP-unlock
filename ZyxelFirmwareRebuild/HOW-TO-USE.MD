@@ -1,4 +1,4 @@
-**How To Use ZyxelUnlocker** : by (username)
+**How To Use ZyxelUnlocker** : by RunVard
 
 First of all you will need WSL
 https://learn.microsoft.com/en-us/windows/wsl/install

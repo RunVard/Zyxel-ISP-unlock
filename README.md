@@ -30,6 +30,6 @@ A set of python scripts and all the reasearch going with it to : Unpack official
 
 ## Prerequisites & Dependencies
 - WSL or a linux VM or a linux machine (the tools used in this scenario where used on WSL)
-- Either a USB->UART board or a rasberry pi + the cables to go in between (Not necesarry depending on how locked down your device is) (testing in this case was made with a rasberry pi 3 since the device did not give acces to ssh/ftp services directly)
+- Either a USB->UART board or a raspberry pi + the cables to go in between (Not necessary depending on how locked down your device is) (testing in this case was made with a raspberry pi 3 since the device did not give acces to ssh/ftp services directly)
 - one or multiple ethernet cables
 - Python 3.xx
